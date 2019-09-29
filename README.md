@@ -1,4 +1,4 @@
-# i18n-editor
+# localization-editor
 
 > A Simple localization properties Editor
 
